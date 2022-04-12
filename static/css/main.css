@@ -97,7 +97,7 @@ a:hover {
   width: auto;
   height: auto;
   transform: translateX(-50%) translateY(-50%);
-  background: url(/static/images/background_4.jpg) no-repeat center / cover;
+  background: url(/static/images/background_4_web.jpg) no-repeat center / cover;
 }
 
 .hero_overlay {
